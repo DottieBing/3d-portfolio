@@ -29,10 +29,10 @@ const words = [
 ];
 
 const counterItems = [
-  { value: 5, suffix: "+", label: "Years of Experience" },
+  { value: 4, suffix: "+", label: "Years of Experience" },
   { value: 80, suffix: "+", label: "Satisfied Clients" },
-  { value: 76, suffix: "+", label: "Completed Projects" },
-  { value: 90, suffix: "%", label: "Client Retention Rate" },
+  { value: 54, suffix: "+", label: "Completed Projects" },
+  { value: 93, suffix: "%", label: "Client Retention Rate" },
 ];
 
 const logoIconsList = [
@@ -95,12 +95,12 @@ const techStackImgs = [
     imgPath: "/images/logos/react.png",
   },
   {
-    name: "Python Developer",
+    name: "Frontend Developer",
     imgPath: "/images/logos/python.svg",
   },
   {
     name: "Backend Developer",
-    imgPath: "/images/logos/node.png",
+    imgPath: "/images/logos/wordpress.png",
   },
   {
     name: "Interactive Developer",
@@ -148,38 +148,38 @@ const techStackIcons = [
 const expCards = [
   {
     review: "Ayobami brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-    imgPath: "/images/exp(1).png",
-    logoPath: "/images/logo(1).png",
-    title: "Frontend Developer",
-    date: "January 2024 - Present",
+    imgPath: "/images/exp(2).png",
+    logoPath: "/images/logo(2).png",
+    title: "Full Stack Developer — (Remote)",
+    date: "2023 - Present",
     responsibilities: [
-      "Developed and maintained user-facing features for the Nexia website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
+      "Developed and maintained React and Node.js applications, improving performance by 35%.",
+      "Integrated WordPress REST API as backend, reducing content update time by 40%.",
+      "Optimized UI for speed and responsiveness, increasing user retention by 25%.",
     ],
   },
   {
-    review: "Ayobami’s contributions to Phixera's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
-    imgPath: "/images/exp(2).png",
-    logoPath: "/images/logo(2).png",
-    title: "Full Stack Developer Intern",
-    date: "June 2022 - December 2023",
+    review: "Ayobami’s contributions to my websites have been outstanding. He approaches challenges with a problem-solving mindset.",
+    imgPath: "/images/exp(4).png",
+    logoPath: "/images/logo(4).png",
+    title: "WordPress Developer — (Freelance)",
+    date: "2022 - Present",
     responsibilities: [
-      "Led the development of Phixera's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Phixera ecosystem.",
+      "Delivered 40+ WordPress websites with 98% client satisfaction.",
+      "Increased SEO rankings for clients by 30% through optimization and performance improvements.",
+      "Customized plugins and automated processes, cutting maintenance time by 20%.",
     ],
   },
   {
     review: "Ayobami’s work on Voltora’s web application brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
     imgPath: "/images/exp(3).png",
     logoPath: "/images/logo(3).png",
-    title: "Next.JS Developer",
-    date: "March 2020 - May 2022",
+    title: "Frontend Developer — Freelance / Contract Projects ",
+    date: "2022 - 2023",
     responsibilities: [
-      "Developed and maintained the Voltora web application using Next.js.",
-      "Improved website performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
+      "Created React-based landing pages that improved conversion rates by 28%.",
+      "Combined WordPress with React for dynamic content delivery and faster load times.",
+      "Ensured mobile compatibility and reduced bounce rates by 18%.",
     ],
   },
 ];
