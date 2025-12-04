@@ -51,8 +51,7 @@ const Hero = () => {
             </div>
 
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Hi, I’m Ayobami, a web developer based in Nigeria with a passion for
-              code.
+              Hi, I’m Ayobami, a web developer who loves turning ideas into clean, <br /> scalable and visually appealing products.
             </p>
 
             <Button

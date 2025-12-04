@@ -121,9 +121,9 @@ const techStackIcons = [
   },
   {
     name: "Frontend Developer",
-    modelPath: "/models/html5_logo.glb",
-    scale: 0.9,
-    rotation: [0, -Math.PI / 2, 0],
+    modelPath: "/models/logo_wordpress.glb",
+    scale: 0.55,
+    rotation: [0, -Math.PI / 7, 0],
   },
   {
     name: "Backend Developer",
