@@ -28,6 +28,7 @@ const HeroExperience = () => {
       <Suspense fallback={null}>
         <HeroLights />
         <Particles count={100} />
+        <Particles count={isMobile ? 40 : 100} />
         <group
           scale={isMobile ? 0.7 : 1}
           position={[0, -3.5, 0]}

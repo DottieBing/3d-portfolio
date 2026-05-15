@@ -123,7 +123,7 @@ const techStackIcons = [
     name: "Frontend Developer",
     modelPath: "/models/logo_wordpress.glb",
     scale: 0.55,
-    rotation: [0, -Math.PI / 7, 0],
+    rotation: [0, -Math.PI / 2, 0],
   },
   {
     name: "Backend Developer",
